@@ -7,4 +7,4 @@ Cycling Tracks
 
 ## Map Printing
 
-[https://print.get-map.org/](Get-Map)
+[https://print.get-map.org/](MyOSMatic)
