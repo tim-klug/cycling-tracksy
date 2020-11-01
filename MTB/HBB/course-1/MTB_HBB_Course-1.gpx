@@ -6,7 +6,7 @@
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  creator="BRouter-1.6.1" version="1.1">
  <trk>
-  <name>MTB_HBB_Course-1</name>
+  <name>MTB-HBB-Course-1</name>
   <trkseg>
    <trkpt lon="9.905441" lat="53.470602"><ele>18.25</ele></trkpt>
    <trkpt lon="9.905539" lat="53.470582"><ele>19.0</ele></trkpt>

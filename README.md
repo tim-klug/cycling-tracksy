@@ -1,10 +1,11 @@
-# cycling-tracksy
+# Cycling Tracks
+
 Cycling Tracks
 
 ## Eediting
 
-[http://www.brouter.de/brouter-web/](BRouter-Web)
+[BRouter-Web)](http://www.brouter.de/brouter-web/
 
 ## Map Printing
 
-[https://print.get-map.org/](MyOSMatic)
+[MyOSMatic](https://print.get-map.org/)
